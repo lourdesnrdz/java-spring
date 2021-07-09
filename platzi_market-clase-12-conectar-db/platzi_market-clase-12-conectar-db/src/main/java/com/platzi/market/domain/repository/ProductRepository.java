@@ -9,9 +9,9 @@ public interface ProductRepository {
     List<Product> getAll();
     Optional<List<Product>> getByCategory(int category);
     Optional<List<Product>> getScarseProducts(int quantity);
-    Optional <Product> getProduct(int productId),
+    Optional <Product> getProduct(int productId);
     Product save(Product product);
-    
+
     void delete(int productId);
 
 

@@ -1,12 +1,10 @@
 package com.platzi.market.domain;
 
-import com.platzi.market.domain.service.PurchaseItem;
-
 import java.time.LocalDateTime;
 import java.util.List;
 
 public class Purchase {
-    private int purchase;
+    private int purchaseId;
     private String clientId;
     private LocalDateTime date;
     private String paymentMethod;
@@ -14,12 +12,12 @@ public class Purchase {
     private String state;
     private List<PurchaseItem> items;
 
-    public int getPurchase() {
-        return purchase;
+    public int getPurchaseId() {
+        return purchaseId;
     }
 
-    public void setPurchase(int purchase) {
-        this.purchase = purchase;
+    public void setPurchaseId(int purchaseId) {
+        this.purchaseId = purchaseId;
     }
 
     public String getClientId() {

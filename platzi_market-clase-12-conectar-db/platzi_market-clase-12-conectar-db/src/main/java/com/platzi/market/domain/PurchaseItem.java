@@ -1,4 +1,4 @@
-package com.platzi.market.domain.service;
+package com.platzi.market.domain;
 
 public class PurchaseItem {
     private int productId;

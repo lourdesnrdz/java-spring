@@ -32,7 +32,7 @@ public class ProductService {
     public boolean delete(int productId){
         return getProduct(productId).map(product -> {
            productRepository.delete(productId);
-           return true
+           return true;
         }).orElse(false);
 
 //        if (getProduct(productId).isPresent()){

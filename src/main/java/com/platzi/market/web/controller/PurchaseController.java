@@ -32,3 +32,4 @@ public class PurchaseController {
         return new ResponseEntity<>(purchaseService.save(purchase), HttpStatus.CREATED);
     }
 }
+

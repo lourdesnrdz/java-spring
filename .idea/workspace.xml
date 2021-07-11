@@ -4,26 +4,83 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6a44e7b-c0bb-40eb-8f08-9c0a51d39e17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/javaSpring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/platzi_market-clase-12-conectar-db.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="2980fea7-a3d4-403c-b5d4-44d743101737" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/platzi_market.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javaSpring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaSpring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/platzi_market.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/platzi_market-clase-12-conectar-db.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.4.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/gradlew" afterDir="false" />
@@ -31,6 +88,7 @@
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/src/main/java/com/platzi/market/domain/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/src/main/java/com/platzi/market/domain/repository/ProductRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/src/main/java/com/platzi/market/web/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/src/main/java/com/platzi/market/web/controller/ProductController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/src/main/resources/application-pdn.properties" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/src/main/resources/application-pdn.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +103,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <task path="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db">
-          <activation />
-        </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="platzi-market" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -68,85 +115,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1vBcIWcWP6LVocN03YrkAmvQW0g" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1vBgFJAzekgFatKhFbY1OkG0zrN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lourdes.b.rodriguez\Documents\Platzi\javaSpring" />
-      <recent name="C:\Users\lourdes.b.rodriguez\Documents\Platzi\javaSpring\platzi_market-clase-12-conectar-db\platzi_market-clase-12-conectar-db" />
-      <recent name="C:\Users\lourdes.b.rodriguez\Documents\Platzi\javaSpring\platzi_market-clase-12-conectar-db\platzi_market-clase-12-conectar-db\gradle" />
-      <recent name="C:\Users\lourdes.b.rodriguez\Documents\Platzi\javaSpring\gradle" />
-    </key>
   </component>
   <component name="RunManager">
-    <configuration name="platzi_market-clase-12-conectar-db [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="bootRun" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="PlatziMarketApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.platzi.market.PlatziMarketApplication" />
+      <module name="platzi-market.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platzi.market.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.platzi_market-clase-12-conectar-db [bootRun]" />
+        <item itemvalue="Application.PlatziMarketApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b6a44e7b-c0bb-40eb-8f08-9c0a51d39e17" name="Default Changelist" comment="" />
-      <created>1626038842633</created>
+      <changelist id="2980fea7-a3d4-403c-b5d4-44d743101737" name="Default Changelist" comment="" />
+      <created>1626040793774</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1626038842633</updated>
+      <updated>1626040793774</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -1,1 +1,1 @@
-web: java -jar -Dspring.profiles.active=pdn platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/build/libs/platzi-market-1.0.jar
+web: java -jar -Dspring.profiles.active=pdn /platzi_market-clase-12-conectar-db/platzi_market-clase-12-conectar-db/build/libs/platzi-market-1.0.jar

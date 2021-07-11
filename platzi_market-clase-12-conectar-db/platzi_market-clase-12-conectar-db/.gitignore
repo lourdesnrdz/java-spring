@@ -1,7 +1,7 @@
 HELP.md
-.gradle
+../.gradle
 build/
-!gradle/wrapper/gradle-wrapper.jar
+!platzi_market-clase-12-conectar-db/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
 
@@ -15,7 +15,7 @@ build/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+platzi_market-clase-12-conectar-db/.idea
 *.iws
 *.iml
 *.ipr

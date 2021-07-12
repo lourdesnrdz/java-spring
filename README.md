@@ -19,11 +19,7 @@ The API's structure consisted on three layers:
 
 For the database we used Postgresql, and I learned how to connect it with the API and implement it in our code using the Spring annotations such as @Entity and @Column to define a table and its attributes. Also, how to map the relationships between classes and creating query methods to access the data.
 
-We used Swagger to document our code, and view it through the interactive UI that Swagger generates.
-
-We also tested our API using Postman to verify our
-
-We also used Postman to test our API's HTTP Rest requests are operating correctly.
+We used Swagger to document our code, and view it through the interactive UI that Swagger generates. Also, used Postman to test our API's HTTP Rest requests are operating correctly.
 
 ## Technologies
 

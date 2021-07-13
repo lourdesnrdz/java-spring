@@ -1,7 +1,7 @@
 package com.platzi.market.persistence;
 
 import com.platzi.market.domain.Purchase;
-import com.platzi.market.domain.repository.PurchaseRepository;
+import com.platzi.market.repository.PurchaseRepository;
 import com.platzi.market.persistence.crud.CompraCrudRepository;
 import com.platzi.market.persistence.entity.Compra;
 import com.platzi.market.persistence.mapper.PurchaseMapper;
